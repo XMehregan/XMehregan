@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4DB6A2&height=220&section=header&text=Welcome%20to%20Mahdi's%20GitHub&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20LLM%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4DB6A2&height=220&section=header&text=Welcome%20to%20Mehregan's%20GitHub&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20LLM%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
 <a href="https://soling.dev"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=4DB6A2"></a>
 <a href="https://www.linkedin.com/in/mehregan-solgi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:Mahdi.slg@soling.dev"><img src="https://img.shields.io/badge/EMAIL-4DB6A2?style=for-the-badge&logo=gmail&logoColor=000000"></a>
