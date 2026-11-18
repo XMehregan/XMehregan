@@ -1,10 +1,10 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4DB6A2&height=220&section=header&text=Welcome%20to%20Mahdi's%20GitHub&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20%26%20LLM%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4DB6A2&height=220&section=header&text=Welcome%20to%20Mahdi's%20GitHub&fontColor=ffffff&fontSize=36&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20LLM%20Enthusiast&descAlignY=58&descSize=16" width="100%" />
 <a href="https://soling.dev"><img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=4DB6A2"></a>
 <a href="https://www.linkedin.com/in/mehregan-solgi"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:Mahdi.slg@soling.dev"><img src="https://img.shields.io/badge/EMAIL-4DB6A2?style=for-the-badge&logo=gmail&logoColor=000000"></a>
 <br><br>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4DB6A2&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Founder+%26+Lead+Full-Stack+at+Soling;Building+AI+agents+with+local+LLMs" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=4DB6A2&center=true&vCenter=true&width=520&lines=Computer+Engineering+Student;Founder+and+Lead+Full-Stack+at+Soling;Building+AI+agents+with+local+LLMs" />
 </div>
 ---
 <h2 align="center">About Me</h2>
